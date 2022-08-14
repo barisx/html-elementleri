@@ -4,7 +4,7 @@ Kısaca yapboz parçaları gibi ancak her biri birbirininden farklı
 (Listedekinden daha fazlası mevcut.)
 
 ```html
-<!DOCTYPE>  Defines the document type
+<!DOCTYPE>  Döküman tipini belirtir
 <html> HTML </html>
 <title> HTML dokumani icin baslik tanimlanir </title>
 <header>Dokuman veya bir bolum icin baslik tanimlanir </header>
